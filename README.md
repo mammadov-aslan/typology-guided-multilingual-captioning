@@ -1,4 +1,4 @@
-# Typology-Guided Multilingual Image Captioning
+# Typology-Guided Multilingual Image Captioning for Low Resource Languages
 
 Multilingual image captioning system that conditions generation on **linguistic typology** (URIEL vectors) to improve caption quality for low-resource languages.
 
