@@ -1,0 +1,20 @@
+## Model checkpoints & large data files
+*.pt
+*.pth
+*.npy
+*.pkl
+
+## Output directories
+outputs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+## Dataset caches (large — don't commit)
+*_features.pt
+flickr_features.pt
+xm3600_features.pt
+
+## Secrets / environment
+.env
+*.key
